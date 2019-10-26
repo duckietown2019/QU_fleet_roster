@@ -1,0 +1,2 @@
+# QU_fleet_roster
+contains all the history of compliance and suitability tests that were done for agents in the Autolab. Every time a hardware check or calibration is done, this is noted in the fleet roster. So make sure that whenever you change anything related to your agents in your Autolab to put it here. To make sure we can read out this data automatically and provide it to the operator of the Autolab, the fleet roster needs to be well structured.
